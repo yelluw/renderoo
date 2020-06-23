@@ -111,9 +111,8 @@ You can define your own template writers by subclassing the `TemplateWriter` cla
 
 # Pull requests
 
-Pull requests are not welcome.
-This library is really small and is meant to stay that way.
-Please go ahead and fork it. 🙂
+Pull requests are welcome and may not be immeditely merged.
+Please open an issue to discuss the merits of your idea.
 
 # License
 
