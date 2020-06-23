@@ -1,5 +1,7 @@
 # Renderoo
 
+https://pypi.org/project/Renderoo/
+
 Renderoo is a small library to render HTML components into HTML templates using python.
 
 The objective is to allow you to build a library of components as python code.
@@ -25,7 +27,7 @@ I strongly suggest `Python 3.6+` for to the availability of f-strings.
 
 # Install
 
-To install Renderoo run `pip install renderoo`
+To install Renderoo run `pip install Renderoo`
 
 # Usage
 
