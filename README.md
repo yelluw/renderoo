@@ -105,6 +105,16 @@ Example: `/path/to/the/template.html`
 
 You can define your own template writers by subclassing the `TemplateWriter` class.
 
+## Using the Renderoo app
+
+`python -m renderoo [init, build, help]`
+
+- `init` - Will initialize a Renderoo project in the currect working directory.
+
+- `build` - Will build all templates in current working directory and output them to wherver you configured it to.
+
+- `help` - Help message and actionable documentation.
+
 # Issues and Bug reports
 
 - Open a ticket
